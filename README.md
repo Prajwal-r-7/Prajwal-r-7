@@ -83,9 +83,9 @@ This repository contains various aspects of my academic journey, including advan
 ## 🌟 Projects Highlights
 
 - ⚙️ **CACHE MASTER** – Final-year project based on hybrid cache memory using LRU & LFU with low power techniques
+- 🤖 **College Chatbot** – Developed a rule-based chatbot for student/faculty queries
 - 🌱 **BINERGY** – Developed a burnable waste segregation system to generate usable energy (*Hack4Sustainability by Siemens*)
 - 🔋 **PGEN** – Power generating shoes design under Design & Innovation Clinic 2023 (CMTI)
-- 🤖 **College Chatbot** – Developed a rule-based chatbot for student/faculty queries
 
 <hr/>
 
