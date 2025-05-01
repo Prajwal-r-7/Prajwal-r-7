@@ -41,7 +41,7 @@ module AboutMe (
 endmodule
 ```
 
-This repository contains various aspects of my academic journey, including advanced digital electronics, VLSI design, functional verification, and system design using Verilog!
+This repository contains various aspects of my academic journey, including advanced digital electronics and system design using Verilog!
 
 <hr/>
 
