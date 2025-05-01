@@ -41,7 +41,7 @@ Led all 4 major projects, managing both technical development and team coordinat
 
 - 📍 Bangalore, India  
 - 📧 Email: [rprajwal745@gmail.com](mailto:rprajwal745@gmail.com)  
-- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/prajwal~r/)) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/prajwal~r/)
 
 ---
 
