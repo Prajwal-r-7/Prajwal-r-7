@@ -49,14 +49,14 @@ This repository contains various aspects of my academic journey, including advan
 
 <p align="center">
   <img src="https://img.shields.io/badge/Verilog-2E8BC0?style=for-the-badge&logo=v&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A5C9CA?style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/Xilinx_Vivado-FF1010?style=for-the-badge&logo=xilinx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xilinx_Vivado-FF1010?style=for-the-badge&logo=xilinx&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGSpice-FFA500?style=for-the-badge&logo=spice&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Cadence_Virtuoso-0096FF?style=for-the-badge&logo=cadence&logoColor=white" />
-  <img src="https://img.shields.io/badge/NGSpice-FFA500?style=for-the-badge&logo=spice&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/PSPICE-4B8BBE?style=for-the-badge&logo=spice&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A5C9CA?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 
