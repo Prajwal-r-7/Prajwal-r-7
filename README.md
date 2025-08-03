@@ -114,7 +114,6 @@ Led all 4 major projects, managing both technical development and team coordinat
   <img src="https://img.shields.io/badge/NGSpice-FF7F00?style=for-the-badge&logo=spice&logoColor=white" alt="ngspice" />
   <!-- Programming -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
 <hr/>
