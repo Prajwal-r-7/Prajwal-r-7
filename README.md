@@ -49,12 +49,10 @@ This repository contains various aspects of my academic journey, including advan
 
 <p align="center">
   <img src="https://img.shields.io/badge/Verilog-2E8BC0?style=for-the-badge&logo=v&logoColor=white" />
-  <img src="https://img.shields.io/badge/SystemVerilog-145DA0?style=for-the-badge&logo=v&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A5C9CA?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Xilinx_Vivado-FF1010?style=for-the-badge&logo=xilinx&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Xilinx_Vivado-FF1010?style=for-the-badge&logo=xilinx&logoColor=white" />
   <img src="https://img.shields.io/badge/Cadence_Virtuoso-0096FF?style=for-the-badge&logo=cadence&logoColor=white" />
   <img src="https://img.shields.io/badge/NGSpice-FFA500?style=for-the-badge&logo=spice&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
@@ -110,9 +108,8 @@ Led all 4 major projects, managing both technical development and team coordinat
 <p align="center">
   <!-- HDL -->
   <img src="https://img.shields.io/badge/Verilog-007ACC?style=for-the-badge&logo=v&logoColor=white" alt="verilog" />
-  <img src="https://img.shields.io/badge/SystemVerilog-512BD4?style=for-the-badge&logo=v&logoColor=white" alt="systemverilog" />
+    <img src="https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white" alt="xilinx vivado" />
   <!-- EDA Tools -->
-  <img src="https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white" alt="xilinx vivado" />
   <img src="https://img.shields.io/badge/Cadence_Virtuoso-1B5E20?style=for-the-badge&logo=cadence&logoColor=white" alt="cadence virtuoso" />
   <img src="https://img.shields.io/badge/NGSpice-FF7F00?style=for-the-badge&logo=spice&logoColor=white" alt="ngspice" />
   <!-- Programming -->
