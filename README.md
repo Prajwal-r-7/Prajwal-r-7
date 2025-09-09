@@ -10,7 +10,7 @@
 
 ## 🎓 Education
 
-- Final year student of B.E. in **Electronics and Communication Engineering** at Govt SKSJTI, Bangalore
+- Graduated with a B.E. in **Electronics and Communication Engineering** from Govt. SKSJTI, Bangalore (2025).
 - Currently pursuing **VLSI Design & Verification Training** at **CoachED**
 - Completed **VLSI internship at Yuvasaarathi | Exposure to digital VLSI concepts and basic Verilog design**
 
